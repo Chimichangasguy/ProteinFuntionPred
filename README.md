@@ -1,5 +1,7 @@
 # ProteinFuntionPred
 
+https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/
+
 This competition evaluates participants' predictions of Gene Ontology (GO) terms for protein sequences. The evaluation is performed on a test set of proteins that initially have no assigned functions but may accumulate experimental annotations after the submission deadline. The test set is divided into three subontologies: Molecular Function (MF), Biological Process (BP), and Cellular Component (CC). 
 The final performance measure is the arithmetic mean of the maximum F-measures calculated on the three subontologies. 
 
